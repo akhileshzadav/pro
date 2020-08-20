@@ -1,0 +1,25 @@
+
+li a{
+    display: block;
+    color: #666;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+    list-style-type: none;
+    
+    
+}
+ul  {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.logo{
+    float: left;
+    height: 50px;
+}
+#header{
+    border-bottom: 1px solid;
+    padding: 5px 0px;
+    
+}

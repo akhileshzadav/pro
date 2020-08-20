@@ -1,0 +1,10 @@
+body{
+    padding: 0px 100px;
+    border :  1px solid;
+}
+div{
+   border:  1px solid ;
+   margin: 10px;
+   padding: 50px 50px 50px 50px;
+}
+

@@ -1,0 +1,7 @@
+p {
+    font: italic small-caps bolder 50px arial,sans-serif
+}
+body {
+    background-color: rgba(250,250,0);
+    color: rgb(0,0,0);
+}

@@ -1,0 +1,35 @@
+body{
+    max-width: 1200px;
+    margin: auto;
+    font-family: Roboto;
+    font-size: 16px;
+}
+div {
+    border: 1px solid black;
+    margin-top: 5px;
+    padding: 20px;
+}
+#left{
+    float: left;
+    padding: 0px 20px 20px 20px
+}
+#right{
+    float: right;
+} 
+#background-image{
+    background-image: url("akhil.jpg");
+    height:300px;
+    padding-top: 50px;
+    color: lightskyblue;
+    margin-top: 25px;
+    
+}
+#identity{
+    overflow: auto;
+}
+#content{
+    max-width: 400px;
+    background-color: rgba(0,0,0,7.0);
+    padding: 30px 20px;
+    margin-top: 50px;
+}
